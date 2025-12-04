@@ -109,7 +109,7 @@ def check_required_fields(self, data):
 
 1. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/TextRuler.git
+   git clone https://github.com/TuffG/TextRuler.git
    cd TextRuler
    ```
 

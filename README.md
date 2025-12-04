@@ -20,10 +20,6 @@ A Windows text ruler application to help focus on specific lines of text with op
 - **System Tray Integration**: Convenient tray icon with context menu
 - **Multi-Monitor Support**: Works seamlessly across multiple screens
 
-## Screenshots
-
-*Add screenshots here to showcase the application*
-
 ## Installation
 
 ### Prerequisites
@@ -35,12 +31,9 @@ A Windows text ruler application to help focus on specific lines of text with op
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/TextRuler.git
+git clone https://github.com/TuffG/TextRuler.git
 cd TextRuler
 ```
-
-> **Note**: Replace `YOUR_USERNAME` with your GitHub username when cloning.
-
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
